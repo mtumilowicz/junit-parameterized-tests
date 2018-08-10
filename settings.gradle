@@ -1,0 +1,4 @@
+rootProject.name = 'junit-parameterized-tests'
+include 'junit5'
+include 'junit4'
+
